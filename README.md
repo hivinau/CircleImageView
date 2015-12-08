@@ -23,4 +23,4 @@
 <br>
 <p>Note : has only one custom attribut to set on xml -&gt; if image is too small, we fill empty space with color chosen</p>
 <p>See result : </p>
-![alt tag](http://s17.postimg.org/l0wx5zasv/result.png)
+![alt tag](http://s29.postimg.org/peudkq8c7/result.png)
